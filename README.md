@@ -10,8 +10,9 @@ DIP PROPOSAL
 Himansh Sheoran
 Lovish Narang
 Ayush Anand
+Ronak Aghera
 
-## Github Link : https://github.com/sheoranhimansh/DIP-Project 
+## Github Link : https://github.com/Ronak1998/INDIAN-MEAL-CLASSIFIER 
 
 ## Main Goals:
 Need to successfully segment out regions in an image consisting of Indian Foods using some sophisticated image segmentation techniques.  Then train our model to so that it can recognise the label of any given image of an Indian meal spread.
